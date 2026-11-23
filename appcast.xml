@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Michael Workspace</title>
         <item>
-            <title>1.1.0</title>
-            <pubDate>Sun, 22 Nov 2026 14:56:03 -0500</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <title>1.2.0</title>
+            <pubDate>Mon, 23 Nov 2026 12:19:31 -0500</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What Is New</h2><p>Updates download automatically and install when you quit the app. Check for Updates and Automatic Updates are available in the app menu. The tutorial includes narration and captions. Your evidence and financial records stay on your Mac.</p>
+            <description><![CDATA[<h2>What Is New</h2><p>Company Tracking organizes geography, infringement and suitable venue assessments, licensing, rounds, and GHIPLAW review. Combined filters and Export Filtered CSV produce matching company lists. Existing evidence and financial records are preserved.</p>
 ]]></description>
-            <enclosure url="https://github.com/J1Marcus/MichaelWorkspaceReleases/releases/download/v1.1.0/MichaelWorkspace-1.1.0.zip" length="137644829" type="application/octet-stream" sparkle:edSignature="5bnFRIzm+lfAuS8F2qM5X5pjFhAaNKFHuG/4e6K0OwozCDVcj8C+rwBanM95JzBrnxbsuGMgpJk1VQixTUF3Cw=="></enclosure>
+            <enclosure url="https://github.com/J1Marcus/MichaelWorkspaceReleases/releases/download/v1.2.0/MichaelWorkspace-1.2.0.zip" length="103419280" type="application/octet-stream" sparkle:edSignature="pb4vuC0hdqworyZj0+BBQdLWO7evWhUidJrkqyIiRb0SlVZ9X9AD3RzgAMvIxFI/ZExiynIGHA66/W1ViePUBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: rKm9au9cP9vYBRpy5VnvGwU74Pq7LgwNhAolhUEit4sQkrrllRtajWXlrumMM8IsCybnvkjyo/UA5bbNa6dOCQ==
-length: 1392
+edSignature: WLJm4ovq3QZ1eOlZITZrYOlTya0HNRg1aI6ZgAZRIV5ddWsMt2laeJ72SWFpL8nKEkHvW+UJNCRAhaRg+EY0BQ==
+length: 1405
 -->
